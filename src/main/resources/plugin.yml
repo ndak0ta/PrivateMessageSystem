@@ -4,3 +4,8 @@ main: ndak0ta.privatemessagesystem.Main
 api-version: 1.17
 description: Private message system for Minecraft.
 author: Ali İhsan KAHRAMAN
+commands:
+  message:
+    aliases: [msg]
+  reply:
+    aliases: [r]
